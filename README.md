@@ -1,4 +1,4 @@
-#網樂通Debian改機
+#網樂通Debian wheezy-sh4 
 ---
 >本手冊以 debian 系統操作為主, 其他系統列入附錄.
 大綱如下:
